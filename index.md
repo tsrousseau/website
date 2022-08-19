@@ -1,3 +1,3 @@
-# Welcome to My GitHub!
+# **Welcome to My GitHub!**
 
-This site is under (a lot of) construction.  Please check back regularly.
+This site is under **a lot** of construction.  Please check back regularly.

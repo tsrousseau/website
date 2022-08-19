@@ -1,6 +1,8 @@
-# Trevor's GitHub Page.
+# **Trevor's GitHub Page.**
+---
 
-I created this in the hopes of consolidating various other websites, links, and projects into one central location.
+I created this with the aim of consolidating my various other websites, links, and projects into one central location.
 
+---
 ### Contact:
 trousseau@gmail.com
